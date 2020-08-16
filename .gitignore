@@ -1,7 +1,5 @@
-*.bsp
-*.aep
-*.vmx
-*.prt
-*.lin
-*.log
-*/graphics/
+*
+!.gitignore
+!.gitattributes
+!*.md
+!*.vmf
